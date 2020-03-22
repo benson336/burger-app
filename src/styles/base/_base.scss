@@ -1,0 +1,14 @@
+body{
+	font-family: Cabin, Arial, sans-serif;
+	font-size: $m-size;
+	background: $dark-blue;
+}
+
+button{
+	cursor: pointer;
+}
+
+button:disabled {
+	cursor: default;
+}
+
